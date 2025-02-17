@@ -1,3 +1,5 @@
+Данное Flutter приложение написано для учебной практики в СУЗ-е
+
 # project_1
 
 A new Flutter project.
